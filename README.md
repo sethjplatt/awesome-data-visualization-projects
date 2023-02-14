@@ -1,6 +1,7 @@
 # Awesome Data Visualization Projects
 
 A curated list of some amazing data visualization projects made by the community
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Contents
@@ -10,4 +11,4 @@ A curated list of some amazing data visualization projects made by the community
 
 ## Unordered List for now
 
-- [Periodic Table with funky visualization perks](https://github.com/janosh/elementari) / by [Janosh](https://github.com/janosh)
+- [Periodic Table with funky visualization perks](https://github.com/janosh/elementari) by [Janosh](https://github.com/janosh)
