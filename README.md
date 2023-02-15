@@ -11,6 +11,8 @@ A curated list of some amazing data visualization projects made by the community
 - [Open Source Tools](#Open-Source-Tools)
 - [More Vizzzzz](#More-Vizzzzz)
 
+(⭐️ means it's a personal favorite)
+
 ## Ready To Run Projects
 
 - [Periodic Table with funky visualization perks](https://github.com/janosh/elementari) by [Janosh](https://github.com/janosh)
@@ -20,6 +22,7 @@ A curated list of some amazing data visualization projects made by the community
 - [Dashboard to visualise earthquakes worldwide since 2000](https://github.com/pierrotsmnrd/earthquakes) by [pierrotsmnrd](https://github.com/pierrotsmnrd)
 - [A Project that visualizes Pi decimals in various ways](https://github.com/GiveMePseudonyms/PiVisualisations) by [GiveMePseudonyms](https://github.com/GiveMePseudonyms)
 - [Electricity Consumption map by country](https://github.com/electricitymaps/electricitymaps-contrib) by [Electricity Maps](https://github.com/electricitymaps)
+- [A Gilded Gauge to visualize relative wealth](https://github.com/dmotz/GildedGauge) by [dmotz](https://github.com/dmotz) ⭐️
 - [An economic Data visualization mashup](https://github.com/RDeconomist/RDeconomist.github.io) by [RDeconomist](https://github.com/RDeconomist)
 - [The Open Space Project](https://github.com/OpenSpace/OpenSpace) by [OpenSpace](https://github.com/OpenSpace)
 
