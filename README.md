@@ -2,7 +2,9 @@
 
 A curated list of some amazing data visualization projects made by the community
 
-<div align="center">[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)</div>
+<div align="center">
+  <img src="https://awesome.re/badge.svg"/>
+</div>
 
 ## Contents
 
