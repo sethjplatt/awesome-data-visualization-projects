@@ -40,3 +40,4 @@ A curated list of some amazing data visualization projects made by the community
 
 - [Top 5 european soccer leagues visualization](https://github.com/somdeep/Statball) by [Somdeep](https://github.com/somdeep)
 - [A Project that visualizes Pi decimals in various ways](https://github.com/GiveMePseudonyms/PiVisualisations) by [GiveMePseudonyms](https://github.com/GiveMePseudonyms)
+- [Flowing Data Huge Project Collection](https://flowingdata.com/made-by-flowingdata/) ⭐️
