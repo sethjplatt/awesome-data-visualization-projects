@@ -25,6 +25,7 @@ A curated list of some amazing data visualization projects made by the community
 - [A Gilded Gauge to visualize relative wealth](https://github.com/dmotz/GildedGauge) by [dmotz](https://github.com/dmotz) ⭐️
 - [An economic Data visualization mashup](https://github.com/RDeconomist/RDeconomist.github.io) by [RDeconomist](https://github.com/RDeconomist)
 - [The Open Space Project](https://github.com/OpenSpace/OpenSpace) by [OpenSpace](https://github.com/OpenSpace)
+- [Air Pollution Map Glob visualizer](https://github.com/VektorTech/air-pollution-map) by [VektorTech](https://github.com/VektorTech)
 
 ## Open Source Tools
 
